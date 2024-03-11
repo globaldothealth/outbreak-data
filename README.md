@@ -35,7 +35,7 @@ or email data to info@global.health. Remove any Personally Identifiable Informat
 
 ## Visualizations
 
-The wiki contains 
+The wiki contains links to data visualizations for each outbreak.
 
 ## License and attribution
 
