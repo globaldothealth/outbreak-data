@@ -12,15 +12,7 @@ The data dictionaries contain information about columns/fields in corresponding 
 
 Please consult the [wiki](https://github.com/globaldothealth/outbreak-data/wiki) for links to line list and timeseries data sets.
 
-### Python
-```python
-import pandas as pd
-df = pd.read_csv(DATA_CSV_URL)
-```
-### R
-```r
-df <- read.csv(DATA_CSV_URL)
-```
+Users may also access line list data using the API using instructions provided [here](https://github.com/globaldothealth/turnkey-curator-portal/blob/main/verification/curator-service/auth.md). Each pathogen has a different URL; please use it to update the example provided.
 
 ## Contributing
 
