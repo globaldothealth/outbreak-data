@@ -27,10 +27,4 @@ or email data to info@global.health. Remove any Personally Identifiable Informat
 
 ## Visualizations
 
-The [wiki](https://github.com/globaldothealth/outbreak-data/wiki) contains links to data visualizations for each outbreak.
-
-## License and attribution
-
-This repository and data exports are published under the CC BY 4.0 license.
-
-Consult the [wiki](https://github.com/globaldothealth/outbreak-data/wiki) for outbreak attribution details.
+The [wiki](https://github.com/globaldothealth/outbreak-data/wiki) contains links to data visualizations for each outbreak, when available.
