@@ -2,7 +2,7 @@
 
 ## Contents
 
-Users can access the latest data sets for each outbreak through this repository's [wiki](https://github.com/globaldothealth/outbreak-data/wiki).
+Users can access the latest data sets for each outbreak through this repository's [wiki](https://github.com/globaldothealth/outbreak-data/wiki). Please contact the Global.health team with requests for historical data.
 
 The [wiki](https://github.com/globaldothealth/outbreak-data/wiki) contains dated records of curated cases from a number of outbreaks, the data dictionaries used for each outbreak, and curator changelogs for each data set.
 
